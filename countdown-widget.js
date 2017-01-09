@@ -29,8 +29,6 @@ function initializeClock(id, endtime) {
       secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
     } else {
       clearInterval(timeinterval);
-      $('.broadcast .sq').hide();
-      $('.broadcast .title').html('<a href="http://unite.bcctv.org/" class="button" style="padding:10px; height:60px; top:20px;">Watch Service Now!</a>');
     }
   }
  
