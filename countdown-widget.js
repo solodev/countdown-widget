@@ -1,3 +1,4 @@
+$( document ).ready(function() {
 function getTimeRemaining(endtime) {
   var t = Date.parse(endtime) - Date.parse(new Date());
   if (t<0) { return false; }
@@ -39,3 +40,4 @@ function initializeClock(id, endtime) {
 var deadline = new Date(); //today
 deadline.setDate(deadline.getDate() + 7);
 initializeClock('clockdiv', deadline);
+});
