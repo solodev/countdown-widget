@@ -1,5 +1,6 @@
 # countdown-widget
-This article will teach you how to add a countdown widget to your website using HTML, CSS, and JavaScript.
+
+Countdown widgets have many uses on the web, the most common of which you will find on websites with products or services that haven't "launched" yet with a countdown widget displaying the time until their product and/or service launches. Alternate common coundown widget uses are upcoming holidays, events, conferences, etc. A countdown widget has several use cases yet it provides a sense of urgency to your call to action as it is now time sensitive. In this article, [Solodev](https://www.solodev.com/blog/) will teach you how to add a countdown widget to your website using HTML, CSS, and JavaScript. 
 
 ## Tutorial
 
